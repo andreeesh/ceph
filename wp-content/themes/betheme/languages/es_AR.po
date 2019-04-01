@@ -1,0 +1,330 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Betheme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-29 15:05+0000\n"
+"PO-Revision-Date: 2018-01-29 15:06+0000\n"
+"Last-Translator: andreeesh <andreeesh@gmail.com>\n"
+"Language-Team: Spanish (Argentina)\n"
+"Language: es-AR\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: 404.php:10
+msgid "Ooops... Error 404"
+msgstr ""
+
+#: 404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:12
+msgid "Please check entered address and try again or "
+msgstr ""
+
+#: 404.php:13
+msgid "go to homepage"
+msgstr ""
+
+#: comments.php:9
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:18
+msgid "Comment"
+msgstr ""
+
+#: comments.php:20
+msgid "Comments"
+msgstr ""
+
+#: comments.php:31
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:32
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: header-shop.php:153 functions/theme-functions.php:712
+msgid "Home"
+msgstr ""
+
+#: header.php:112
+msgid "results found for:"
+msgstr ""
+
+#: index.php:53 taxonomy-portfolio-types.php:43 template-portfolio.php:55
+msgid "Filter by"
+msgstr ""
+
+#: index.php:54 includes/content-single.php:53
+msgid "Tags"
+msgstr ""
+
+#: index.php:55
+msgid "Authors"
+msgstr ""
+
+#: index.php:56 taxonomy-portfolio-types.php:44 template-portfolio.php:56
+#: includes/content-single-portfolio.php:66 includes/content-single.php:55
+#: woocommerce/content-single-product.php:66
+msgid "Show all"
+msgstr ""
+
+#: index.php:57 taxonomy-portfolio-types.php:45 template-portfolio.php:57
+#: includes/content-post.php:17 includes/content-single-portfolio.php:65
+#: includes/content-single.php:54
+msgid "Categories"
+msgstr ""
+
+#: index.php:58 taxonomy-portfolio-types.php:46 template-portfolio.php:58
+msgid "All"
+msgstr ""
+
+#: index.php:174 search.php:83
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: index.php:175 search.php:84
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: search.php:12
+msgid "Ooops..."
+msgstr ""
+
+#: search.php:13
+msgid "No results found for:"
+msgstr ""
+
+#: search.php:15 single-download.php:14 includes/content-post.php:15
+#: includes/content-single-portfolio.php:63 includes/content-single.php:51
+msgid "Published by"
+msgstr ""
+
+#: search.php:16 single-download.php:15 includes/content-post.php:16
+#: includes/content-single-portfolio.php:64 includes/content-single.php:52
+msgid "at"
+msgstr ""
+
+#: search.php:17 includes/content-portfolio.php:15 includes/content-post.php:19
+#: includes/content-single-portfolio.php:68 includes/content-single.php:57
+msgid "Read more"
+msgstr ""
+
+#: searchform.php:10 includes/header-creative.php:146
+#: includes/header-top-bar-right.php:37
+msgid "Enter your search"
+msgstr "Buscar..."
+
+#: style.php:670
+msgid "Before"
+msgstr ""
+
+#: style.php:671
+msgid "After"
+msgstr ""
+
+#. Name of the template
+msgid "Archives"
+msgstr ""
+
+#: template-archives.php:29
+msgid "Available Pages"
+msgstr ""
+
+#: template-archives.php:36
+msgid "The 20 latest posts"
+msgstr ""
+
+#: template-archives.php:52
+msgid "Archives by Subject"
+msgstr ""
+
+#: template-archives.php:68
+msgid "Archives by Month"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Page"
+msgstr ""
+
+#. Name of the template
+msgid "Portfolio"
+msgstr ""
+
+#. Name of the template
+msgid "Sitemap"
+msgstr ""
+
+#. Name of the template
+msgid "Under Construction"
+msgstr ""
+
+#: under-construction.php:28
+msgid "days"
+msgstr ""
+
+#: under-construction.php:29
+msgid "hours"
+msgstr ""
+
+#: under-construction.php:30
+msgid "minutes"
+msgstr ""
+
+#: under-construction.php:31
+msgid "seconds"
+msgstr ""
+
+#: functions/theme-functions.php:487
+msgid "Prev page"
+msgstr "Anterior"
+
+#: functions/theme-functions.php:488
+msgid "Next page"
+msgstr "Siguiente"
+
+#: functions/theme-functions.php:489
+msgid "Load more"
+msgstr ""
+
+#: functions/theme-functions.php:585
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: functions/theme-functions.php:1640
+msgid "comment"
+msgstr ""
+
+#: functions/theme-functions.php:1641
+msgid "comments"
+msgstr ""
+
+#: functions/theme-functions.php:1642
+msgid "comments off"
+msgstr ""
+
+#: functions/widget-functions.php:45
+msgid "Custom sidebar created in Theme Options."
+msgstr ""
+
+#: functions/widget-functions.php:60
+msgid "Appears in the Footer section of the site."
+msgstr ""
+
+#: functions/widget-functions.php:74
+msgid "Appears in the Sliding Top section of the site."
+msgstr ""
+
+#: functions/widget-functions.php:86
+msgid ""
+"Main sidebar for Search page that appears on the right. Leave it empty to "
+"use Full Width layout."
+msgstr ""
+
+#: functions/widget-functions.php:97
+msgid ""
+"Main sidebar for bbPress pages that appears on the right. Leave it empty to "
+"use Full Width layout."
+msgstr ""
+
+#: functions/widget-functions.php:108
+msgid ""
+"Main sidebar for BuddyPress pages that appears on the right. Leave it empty "
+"to use Full Width layout."
+msgstr ""
+
+#: functions/widget-functions.php:119
+msgid ""
+"Main sidebar for The Events Calendar pages that appears on the right. Leave "
+"it empty to use Full Width layout."
+msgstr ""
+
+#: functions/widget-functions.php:130
+msgid ""
+"Main sidebar for Easy Digital Downloads single pages that appears on the "
+"right. Leave it empty to use Full Width layout."
+msgstr ""
+
+#: functions/widget-functions.php:141
+msgid ""
+"Main sidebar for WooCommerce pages that appears on the right. Leave it empty "
+"to use Full Width layout."
+msgstr ""
+
+#: functions/widget-functions.php:167
+msgid ""
+"Sidebar for Blog Category. Appears only when you select sidebar for Blog."
+msgstr ""
+
+#: functions/widget-functions.php:185
+msgid "Appears on Portfolio Category Page."
+msgstr ""
+
+#: includes/content-portfolio.php:16 includes/content-single-portfolio.php:69
+msgid "Client"
+msgstr ""
+
+#: includes/content-portfolio.php:17 includes/content-single-portfolio.php:70
+msgid "Date"
+msgstr ""
+
+#: includes/content-portfolio.php:18 includes/content-single-portfolio.php:71
+msgid "Website"
+msgstr ""
+
+#: includes/content-portfolio.php:19 includes/content-single-portfolio.php:72
+msgid "View website"
+msgstr ""
+
+#: includes/content-post.php:18
+msgid "Do you like it?"
+msgstr ""
+
+#: includes/content-single-portfolio.php:67 includes/content-single.php:56
+msgid "Related posts"
+msgstr ""
+
+#: includes/content-single-portfolio.php:73
+msgid "Task"
+msgstr ""
+
+#: includes/header-creative.php:2 includes/header-top-area.php:1
+#: includes/header-top-bar-right.php:3
+msgid "No translations available for this page"
+msgstr ""
+
+#: includes/header-single-intro.php:71
+msgid "parallax background"
+msgstr ""
+
+#. Name of the theme
+msgid "Betheme"
+msgstr ""
+
+#. Description of the theme
+msgid "The biggest WordPress Theme ever"
+msgstr ""
+
+#. URI of the theme
+msgid "http://themes.muffingroup.com/betheme"
+msgstr ""
+
+#. Author of the theme
+msgid "Muffin group"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://muffingroup.com"
+msgstr ""
