@@ -24,10 +24,10 @@ include_once __DIR__ . '/wp-config.common.php';
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'ceph_site' );
+define( 'DB_NAME', 'hidrocar_data' );
 
 /** MySQL database username */
-define( 'DB_USER', 'ceph_user' );
+define( 'DB_USER', 'hidrocar_user' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'C1rc4C0mb4t' );
